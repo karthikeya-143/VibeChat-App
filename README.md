@@ -34,5 +34,7 @@ It supports **1:1 private chats**, **group chats**, and **live message updates**
 
 ---
 
+### ✨ New feature added in feature-update branch
+
 
 
