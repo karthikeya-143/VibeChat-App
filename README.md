@@ -34,7 +34,7 @@ It supports **1:1 private chats**, **group chats**, and **live message updates**
 
 ---
 
-### ✨ New feature added in feature-update branch
+### ✨Having an issue in the login and :5001/api/messages/users:1   Failed to load resource: the server responded with a status of 500 (Internal Server Error)
 
 
 
