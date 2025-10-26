@@ -36,5 +36,8 @@ It supports **1:1 private chats**, **group chats**, and **live message updates**
 
 ### ✨Having an issue in the login and :5001/api/messages/users:1   Failed to load resource: the server responded with a status of 500 (Internal Server Error)
 
+### Also we need to add the joined message and left message in the group chat
+
+
 
 
